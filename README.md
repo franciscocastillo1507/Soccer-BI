@@ -10,4 +10,4 @@ pandas
 numpy
 matplotlib
 
-correr los programas
+
