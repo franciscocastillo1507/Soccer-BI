@@ -1,0 +1,108 @@
+﻿Id,Top,Name,Weight,Height,Age,Citizenship,Team,Jersey,Position,Appearances,Sub Ins,Total Play Time,Average Play Time,Fouls Suffered,Fouls Committed,Own Goals,Yellow Cards,Red Cards,Offsides,Goal Assists,Shots On Target,Total Shots,Total Goals,Goals Conceded,Update Time
+320,1,Mohamed Salah,157,69,29,Egypt,Liverpool,11,Forward,27,2,2373,88.9,17,7,0,1,0,4,10,45,110,20,18,2022-03-19T16:05:00Z
+316,2,Diogo Jota,150,70,25,Portugal,Liverpool,20,Forward,26,6,1823,71.1,33,34,0,2,0,4,1,25,65,13,13,2022-03-19T16:05:00Z
+286,3,Harry Kane,190,74,28,England,Tottenham Hotspur,10,Forward,27,1,2478,92.8,34,32,0,3,0,6,3,35,93,12,34,2022-03-19T16:04:59Z
+317,4,Sadio Mané,150,69,29,Senegal,Liverpool,10,Forward,26,1,2336,90.8,39,37,0,3,0,6,1,29,80,12,18,2022-03-19T16:05:00Z
+431,5,Cristiano Ronaldo,183,74,37,Portugal,Manchester United,7,Forward,24,3,2024,85.3,16,11,0,5,0,2,3,31,86,12,28,2022-03-19T16:05:01Z
+285,6,Son Heung-Min,172,72,29,South Korea,Tottenham Hotspur,7,Forward,25,0,2254,91.2,22,8,0,1,0,3,6,28,55,11,26,2022-03-19T16:04:59Z
+320,7,Ivan Toney,152,70,26,England,Brentford,17,Forward,24,1,2238,94.2,59,36,0,6,0,5,2,22,52,11,34,2022-03-19T16:05:01Z
+183,8,Jamie Vardy,161,70,35,England,Leicester City,9,Forward,18,2,1478,83.1,11,10,1,2,0,2,2,17,38,10,22,2022-03-19T16:05:05Z
+349,9,Riyad Mahrez,148,70,31,Algeria,Manchester City,26,Forward,22,10,1308,60.5,13,8,0,0,0,6,4,19,50,10,11,2022-03-19T16:05:00Z
+350,10,Raheem Sterling,150,67,27,England,Manchester City,7,Forward,23,6,1653,72.9,31,16,0,1,0,5,1,22,42,10,12,2022-03-19T16:05:00Z
+497,14,Raphinha,150,69,25,Brazil,Leeds United,10,Forward,27,1,2370,88.8,39,33,0,6,0,2,3,19,70,9,57,2022-03-19T16:04:58Z
+654,15,Wilfried Zaha,146,71,29,Ivory Coast,Crystal Palace,11,Forward,24,1,2136,90,72,26,0,4,1,2,1,16,42,9,26,2022-03-19T16:05:01Z
+687,16,Emmanuel Dennis,148,69,24,Nigeria,Watford,25,Forward,27,1,2257,84.6,34,52,0,8,1,3,5,21,52,9,45,2022-03-19T16:05:02Z
+60,18,Teemu Pukki,163,71,31,Finland,Norwich City,22,Forward,28,0,2562,92.5,23,24,0,4,0,1,2,19,45,8,56,2022-03-19T16:05:02Z
+381,19,Neal Maupay,150,68,25,France,Brighton & Hove Albion,9,Forward,27,4,2168,81.3,29,26,0,6,0,3,2,13,50,8,28,2022-03-19T16:05:02Z
+439,20,Michail Antonio,181,71,31,Jamaica,West Ham United,9,Forward,28,1,2561,92.5,42,37,0,6,1,7,7,20,63,8,32,2022-03-19T16:04:59Z
+441,21,Jarrod Bowen,152,69,25,England,West Ham United,20,Forward,28,1,2463,89,36,18,0,3,0,6,8,25,65,8,34,2022-03-19T16:04:59Z
+227,25,Ollie Watkins,152,71,26,England,Aston Villa,11,Forward,26,2,2304,89.6,29,23,0,6,0,3,1,22,51,7,32,2022-03-19T16:05:04Z
+471,28,Ché Adams,152,69,25,Scotland,Southampton,10,Forward,23,4,1753,77.2,34,21,0,0,0,2,3,19,39,7,26,2022-03-19T16:05:00Z
+81,29,Armando Broja,,75,20,Albania,Southampton,18,Forward,25,9,1598,64.9,20,20,0,1,0,0,0,18,36,6,27,2022-03-19T16:05:00Z
+121,30,Raúl Jiménez,168,75,30,Mexico,Wolverhampton Wanderers,9,Forward,28,3,2274,82.2,41,38,0,6,2,8,3,13,54,6,15,2022-03-19T16:05:04Z
+249,33,Odsonne Édouard,183,74,24,France,Crystal Palace,22,Forward,23,8,1329,58.8,5,17,0,2,0,4,3,14,35,6,18,2022-03-19T16:05:01Z
+564,37,Callum Wilson,146,71,30,England,Newcastle United,9,Forward,15,1,1253,84.5,18,23,0,4,0,2,0,10,26,6,28,2022-03-19T16:05:04Z
+28,41,Gabriel Martinelli,163,70,20,Brazil,Arsenal,35,Forward,19,4,1301,69.5,11,15,0,2,1,3,3,11,37,5,13,2022-03-19T16:05:03Z
+56,42,Romelu Lukaku,203,75,28,Belgium,Chelsea,9,Forward,19,7,1302,69.5,9,6,0,0,0,1,0,9,26,5,8,2022-03-19T16:04:58Z
+173,43,Demarai Gray,161,71,25,England,Everton,11,Forward,23,2,1769,77.9,27,10,0,3,0,1,2,14,46,5,26,2022-03-19T16:04:58Z
+255,44,Mason Greenwood,152,71,20,England,Manchester United,11,Forward,18,2,1311,73.8,16,14,0,1,0,3,1,17,47,5,16,2022-03-19T16:05:01Z
+315,45,Roberto Firmino,168,71,30,Brazil,Liverpool,9,Forward,16,8,833,53.1,6,7,0,3,0,0,3,10,20,5,8,2022-03-19T16:05:00Z
+440,47,Saïd Benrahma,148,68,26,Algeria,West Ham United,22,Forward,25,4,1760,71.4,12,4,0,0,0,1,6,15,52,5,20,2022-03-19T16:04:59Z
+472,48,Danny Ings,161,70,29,England,Aston Villa,20,Forward,23,4,1605,70.8,9,13,0,2,0,3,5,11,29,5,20,2022-03-19T16:05:04Z
+498,50,Rodrigo,170,72,31,Spain,Leeds United,19,Forward,23,3,1719,75.7,23,14,0,8,0,0,1,15,42,5,27,2022-03-19T16:04:58Z
+548,51,Hwang Hee-Chan,170,70,26,South Korea,Wolverhampton Wanderers,26,Forward,22,6,1420,65.5,33,20,0,1,0,1,1,8,16,5,11,2022-03-19T16:05:04Z
+563,52,Allan Saint-Maximin,148,68,25,France,Newcastle United,10,Forward,26,4,2172,84.5,37,12,0,4,0,4,3,20,50,5,39,2022-03-19T16:05:04Z
+690,54,Ismaïla Sarr,168,73,24,Senegal,Watford,23,Forward,16,1,1413,89.3,38,10,0,2,0,1,1,13,34,5,24,2022-03-19T16:05:02Z
+709,55,Cucho Hernández,161,69,22,Colombia,Watford,29,Forward,6,13,347,58.8,11,10,1,2,0,0,2,8,32,5,29,2022-03-19T16:05:02Z
+27,57,Alexandre Lacazette,161,69,30,France,Arsenal,9,Forward,23,5,1582,69.8,24,27,0,0,0,3,7,14,37,4,11,2022-03-19T16:05:03Z
+147,59,Richarlison,183,72,24,Brazil,Everton,7,Forward,20,2,1724,87.2,44,25,0,6,0,4,3,8,35,4,30,2022-03-19T16:04:58Z
+258,61,Marcus Rashford,152,71,24,England,Manchester United,10,Forward,19,9,995,53.4,17,8,0,2,0,3,2,8,18,4,21,2022-03-19T16:05:01Z
+383,64,Leandro Trossard,132,67,27,Belgium,Brighton & Hove Albion,11,Forward,27,2,2328,87.2,23,19,0,2,0,2,1,19,57,4,31,2022-03-19T16:05:02Z
+413,65,Chris Wood,179,75,30,New Zealand,Newcastle United,20,Forward,27,0,2377,89,13,27,0,1,0,2,0,15,47,4,31,2022-03-19T16:05:04Z
+437,67,Patson Daka,157,72,23,Zambia,Leicester City,29,Forward,14,6,809,58.8,9,13,0,1,0,0,3,11,18,4,13,2022-03-19T16:05:05Z
+622,72,Ademola Lookman,157,69,24,Nigeria,Leicester City,37,Forward,19,7,1194,63.8,28,19,0,2,0,5,0,9,19,4,26,2022-03-19T16:05:05Z
+650,73,Christian Benteke,183,75,31,Belgium,Crystal Palace,20,Forward,22,11,1202,55.6,16,12,0,3,0,2,1,13,39,4,18,2022-03-19T16:05:01Z
+149,78,Dominic Calvert-Lewin,157,74,25,England,Everton,9,Forward,10,1,812,82.2,11,8,0,2,0,0,1,9,24,3,14,2022-03-19T16:04:58Z
+150,79,Anthony Gordon,,,21,England,Everton,24,Forward,24,8,1607,68,37,20,0,2,0,4,2,13,29,3,25,2022-03-19T16:04:58Z
+384,89,Danny Welbeck,161,73,31,England,Brighton & Hove Albion,18,Forward,16,9,775,49.4,5,8,0,0,0,0,0,10,18,3,9,2022-03-19T16:05:02Z
+510,92,Jadon Sancho,168,71,21,England,Manchester United,25,Forward,24,8,1579,66.8,4,3,0,0,0,1,3,8,21,3,20,2022-03-19T16:05:01Z
+651,97,Jean-Philippe Mateta,192,76,24,France,Crystal Palace,14,Forward,14,7,685,49.9,5,6,0,1,0,2,1,10,18,3,7,2022-03-19T16:05:01Z
+151,106,Alex Iwobi,163,71,25,Nigeria,Everton,17,Forward,17,6,1111,66.4,4,3,0,1,0,3,1,6,19,2,18,2022-03-19T16:04:58Z
+181,108,Kelechi Iheanacho,181,73,25,Nigeria,Leicester City,14,Forward,18,11,800,45.4,5,11,0,1,0,2,5,7,17,2,16,2022-03-19T16:05:05Z
+246,112,Luis Díaz,141,70,25,Colombia,Liverpool,23,Forward,6,0,513,86.5,10,11,0,0,0,0,0,6,17,2,1,2022-03-19T16:05:00Z
+253,113,Edinson Cavani,157,72,35,Uruguay,Manchester United,21,Forward,12,6,666,56.5,3,4,0,0,0,0,1,4,15,2,6,2022-03-19T16:05:01Z
+262,114,Anthony Elanga,,70,19,Sweden,Manchester United,36,Forward,12,6,589,50.1,9,2,0,0,0,2,0,4,13,2,4,2022-03-19T16:05:01Z
+284,119,Steven Bergwijn,172,70,24,Netherlands,Tottenham Hotspur,23,Forward,17,13,553,33.5,9,8,0,1,0,0,1,7,13,2,4,2022-03-19T16:04:59Z
+287,120,Lucas Moura,159,68,29,Brazil,Tottenham Hotspur,27,Forward,25,8,1624,66,32,16,0,3,0,8,4,10,30,2,19,2022-03-19T16:04:59Z
+315,130,Sergi Canós,163,70,25,Spain,Brentford,7,Forward,28,3,2130,77.1,15,25,1,6,0,3,2,11,30,2,33,2022-03-19T16:05:01Z
+318,131,Takumi Minamino,150,69,27,Japan,Liverpool,18,Forward,10,10,130,14,3,4,0,1,0,1,0,2,3,2,0,2022-03-19T16:05:00Z
+319,132,Divock Origi,163,73,26,Belgium,Liverpool,27,Forward,5,5,95,20,0,0,0,0,0,0,0,4,8,2,0,2022-03-19T16:05:00Z
+348,134,Gabriel Jesus,161,69,24,Brazil,Manchester City,9,Forward,20,5,1412,71.6,10,19,0,0,0,1,7,12,39,2,8,2022-03-19T16:05:00Z
+427,137,Adam Armstrong,150,68,25,England,Southampton,9,Forward,20,6,1309,66.4,5,11,0,1,0,1,2,14,44,2,23,2022-03-19T16:05:00Z
+484,140,Joe Gelhardt,141,69,19,England,Leeds United,30,Forward,13,11,526,41.5,17,13,0,4,0,0,1,7,16,2,21,2022-03-19T16:04:58Z
+499,142,Patrick Bamford,157,73,28,England,Leeds United,9,Forward,9,2,595,67.1,5,5,0,2,0,0,2,5,20,2,14,2022-03-19T16:04:58Z
+560,146,Joelinton,179,73,25,Brazil,Newcastle United,7,Forward,26,5,2026,78.9,30,43,0,6,0,0,1,10,33,2,34,2022-03-19T16:05:04Z
+564,147,Joshua Sargent,172,73,22,United States,Norwich City,24,Forward,25,7,1638,66.5,22,9,0,1,0,0,1,2,23,2,32,2022-03-19T16:05:02Z
+684,152,João Pedro,152,72,20,Brazil,Watford,10,Forward,20,12,1136,57.8,20,9,0,1,0,4,1,10,33,2,21,2022-03-19T16:05:02Z
+26,155,Salomón Rondón,214,73,32,Venezuela,Everton,33,Forward,14,6,769,55.9,3,9,0,2,0,0,0,4,14,1,14,2022-03-19T16:04:58Z
+31,156,Nicolas Pépé,161,72,26,Ivory Coast,Arsenal,19,Forward,15,9,674,45.9,3,5,0,0,0,2,1,5,20,1,8,2022-03-19T16:05:03Z
+59,160,Adam Idah,183,75,21,Ireland,Norwich City,35,Forward,17,11,696,41.9,10,7,0,0,0,2,1,3,15,1,11,2022-03-19T16:05:02Z
+317,193,Saman Ghoddos,163,69,28,Iran,Brentford,14,Forward,15,12,498,34.2,9,10,0,2,0,1,1,2,6,1,4,2022-03-19T16:05:01Z
+410,203,Jay Rodriguez,183,73,32,England,Burnley,19,Forward,23,15,1012,45,13,18,0,3,0,1,2,6,27,1,11,2022-03-19T16:05:03Z
+412,204,Matej Vydra,157,71,29,Czech Republic,Burnley,27,Forward,16,13,499,32.2,4,5,0,0,0,1,1,4,12,1,5,2022-03-19T16:05:03Z
+444,211,Andriy Yarmolenko,179,74,32,Ukraine,West Ham United,7,Forward,12,12,180,16,2,1,0,1,0,0,0,3,7,1,2,2022-03-19T16:04:59Z
+473,214,Shane Long,179,70,35,Ireland,Southampton,7,Forward,8,7,180,23.5,2,4,0,0,0,0,0,2,3,1,1,2022-03-19T16:05:00Z
+504,217,Tyler Roberts,163,71,23,Wales,Leeds United,11,Forward,23,16,1091,48.4,20,14,0,5,0,1,1,11,28,1,26,2022-03-19T16:04:58Z
+539,219,Leon Bailey,170,70,24,Jamaica,Aston Villa,31,Forward,14,9,584,42.7,10,5,0,2,0,0,2,6,15,1,11,2022-03-19T16:05:04Z
+554,224,Wout Weghorst,183,78,29,Netherlands,Burnley,9,Forward,9,0,773,86.9,8,14,0,1,0,0,2,3,10,1,9,2022-03-19T16:05:03Z
+590,230,Callum Hudson-Odoi,168,72,21,England,Chelsea,20,Forward,15,4,1001,67.7,17,9,0,1,0,1,2,6,18,1,7,2022-03-19T16:04:58Z
+591,231,Timo Werner,163,71,26,Germany,Chelsea,11,Forward,14,6,782,56.9,9,7,0,1,0,1,1,6,23,1,6,2022-03-19T16:04:58Z
+644,233,Francisco Trincão,152,72,22,Portugal,Wolverhampton Wanderers,11,Forward,22,8,1204,55.7,20,11,0,0,0,1,1,9,24,1,13,2022-03-19T16:05:04Z
+648,234,Jordan Ayew,174,72,30,Ghana,Crystal Palace,9,Forward,25,7,1630,66.2,57,25,0,1,0,2,3,5,28,1,25,2022-03-19T16:05:01Z
+30,249,Edward Nketiah,159,69,22,England,Arsenal,30,Forward,11,10,181,17.5,0,8,0,1,0,0,1,0,2,0,4,2022-03-19T16:05:03Z
+35,254,Lewis Dobbin,,,19,England,Everton,61,Forward,3,3,44,15.7,1,1,0,1,0,0,0,0,0,0,1,2022-03-19T16:04:58Z
+117,295,Fábio Silva,163,73,19,Portugal,Wolverhampton Wanderers,17,Forward,17,15,339,20.9,5,5,0,0,0,0,0,2,10,0,3,2022-03-19T16:05:04Z
+122,298,Pedro Neto,150,68,22,Portugal,Wolverhampton Wanderers,7,Forward,5,4,150,31,3,0,0,0,0,0,0,1,5,0,3,2022-03-19T16:05:04Z
+124,300,Armstrong Okoflex,,,20,England,West Ham United,40,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2022-03-19T16:04:59Z
+152,315,Cenk Tosun,172,72,30,Turkey,Everton,20,Forward,1,1,10,11,0,0,0,0,0,0,0,0,0,0,0,2022-03-19T16:04:58Z
+182,330,Ayoze Pérez,159,70,28,Spain,Leicester City,17,Forward,8,5,245,31.6,3,3,0,0,1,1,2,4,6,0,9,2022-03-19T16:05:05Z
+226,344,Bertrand Traoré,161,71,26,Burkina Faso,Aston Villa,15,Forward,7,5,205,30.3,4,0,0,0,0,0,0,0,4,0,3,2022-03-19T16:05:04Z
+248,360,Kaide Gordon,,,17,England,Liverpool,49,Forward,1,1,11,12,0,1,0,0,0,0,0,1,1,0,0,2022-03-19T16:05:00Z
+277,372,Kayky Chagas,150,69,18,Brazil,Manchester City,37,Forward,1,1,10,11,0,1,0,0,0,0,0,0,0,0,0,2022-03-19T16:05:00Z
+288,378,Dane Scarlett,168,71,17,England,Tottenham Hotspur,44,Forward,1,1,7,8,0,0,0,0,0,0,0,0,0,0,0,2022-03-19T16:04:59Z
+291,383,Samuel Edozie,,,19,England,Manchester City,53,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2022-03-19T16:05:00Z
+324,403,Nathan Young-Coombes,,,19,England,Brentford,43,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2022-03-19T16:05:01Z
+347,415,Liam Delap,,,19,England,Manchester City,48,Forward,1,1,13,14,1,1,0,0,0,0,0,0,0,0,0,2022-03-19T16:05:00Z
+408,446,Ashley Barnes,170,73,32,England,Burnley,10,Forward,15,11,469,32.3,7,14,0,3,0,4,0,3,7,0,11,2022-03-19T16:05:03Z
+476,476,Theo Walcott,150,69,33,England,Southampton,32,Forward,9,4,403,45.8,6,1,0,0,0,0,0,0,6,0,8,2022-03-19T16:05:00Z
+479,478,Samuel Kalu,161,69,24,Nigeria,Watford,28,Forward,2,2,56,29,0,0,0,0,0,0,0,1,1,0,1,2022-03-19T16:05:02Z
+490,484,Christos Tzolis,,72,20,Greece,Norwich City,18,Forward,11,8,344,32.3,4,1,0,0,0,0,0,2,5,0,9,2022-03-19T16:05:02Z
+501,488,Sam Greenwood,,73,20,England,Leeds United,42,Forward,2,2,92,47,0,3,0,0,0,1,1,0,1,0,3,2022-03-19T16:04:58Z
+523,494,Chem Campbell,,,19,Wales,Wolverhampton Wanderers,77,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2022-03-19T16:05:04Z
+530,495,Scott Banks,,,20,Scotland,Crystal Palace,40,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2022-03-19T16:05:01Z
+543,505,Jon Rowe,157,68,18,England,Norwich City,46,Forward,7,7,132,19.9,4,1,0,0,0,2,1,1,2,0,3,2022-03-19T16:05:02Z
+546,506,Mika Biereth,,,19,England,Arsenal,58,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2022-03-19T16:05:03Z
+562,512,Dwight Gayle,172,69,32,England,Newcastle United,34,Forward,5,5,55,12,1,2,0,1,0,0,0,0,1,0,0,2022-03-19T16:05:04Z
+581,526,Evan Ferguson,,,17,,Brighton & Hove Albion,58,Forward,1,1,27,28,0,0,0,0,0,0,0,0,0,0,1,2022-03-19T16:05:02Z
+590,528,Jeremy Sarmiento,,,19,Ecuador,Brighton & Hove Albion,60,Forward,2,1,25,13.5,1,0,0,0,0,0,0,0,0,0,1,2022-03-19T16:05:02Z
+641,547,Chiquinho,161,70,22,Portugal,Wolverhampton Wanderers,20,Forward,4,4,68,18,2,5,0,0,0,0,1,1,2,0,0,2022-03-19T16:05:04Z
