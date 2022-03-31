@@ -10,6 +10,4 @@ pandas
 numpy
 matplotlib
 
-graficas estan en el doc y que es el first approach
-subirlo y registrarse ne benji
 correr los programas
